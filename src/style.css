@@ -1,0 +1,115 @@
+.details {
+  font-size: 20px;
+  width: 300px;
+  padding: 20px;
+}
+.content {
+  color: #e67300;
+  margin: 12px;
+  padding: 12px;
+  border: 1px solid greenyellow;
+  width: 200px;
+  background-color: #e67300;
+}
+.input {
+  margin-top: 2px;
+  padding: 2px;
+  display: block;
+  width: 180px;
+  font-size: 14px;
+}
+.but {
+  margin-top: 12px;
+  display: block;
+  border: solid 1px solid orangered;
+  color: black;
+  width: 100px;
+  cursor: pointer;
+  line-height: 26px;
+  font-size: 14px;
+  background-color: blueviolet;
+}
+.but:hover {
+  background-color: #808000;
+}
+.label {
+  padding-top: 12px;
+  padding-bottom: 2px;
+}
+.box {
+  margin: 4px;
+  font-size: 82px;
+  width: 304px;
+  height: 100px;
+  border: 1px solid darkgoldenrod;
+  text-align: center;
+}
+.botton {
+  display: inline-block;
+  width: 150px;
+  text-align: center;
+  border: solid 1px solid black;
+  color: black;
+  cursor: pointer;
+  margin: 4px;
+  line-height: 34px;
+  font-size: 24px;
+  background-color: aqua;
+}
+.button {
+  display: inline-block;
+  width: 200px;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  border: solid 1px red;
+  cursor: pointer;
+  padding: 7px;
+  margin-top: 12px;
+  margin-right: 12px;
+  line-height: 34px;
+  background-color: aqua;
+}
+.button:hover {
+  color: green;
+}
+.color {
+  color: brown;
+}
+
+#head {
+  color: green;
+}
+.foods {
+  color: red;
+  font-style: italic;
+}
+.employee {
+  color: magenta;
+  font-style: italic;
+  padding-top: 8px;
+}
+.activities {
+  color: firebrick;
+  font-style: bold, italic;
+  padding-top: 8px;
+}
+.company {
+  color: red;
+  border-color: blueviolet;
+  background: lime;
+  padding: 10px;
+  width: 200px;
+  margin: 50px;
+}
+
+.circle {
+  border-radius: 80%;
+  font-size: 25px;
+  background: green;
+  color: red;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  padding-top: 5%;
+}
